@@ -1,0 +1,2 @@
+# fabricadeprogramadores_2025_turma3
+Curso Python
